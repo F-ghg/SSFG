@@ -7,4 +7,5 @@ web/content/*
 !web/content/language
 web/static/img/global
 test
+!web/bible_verse_scanner/test
 deploy-creds-*
